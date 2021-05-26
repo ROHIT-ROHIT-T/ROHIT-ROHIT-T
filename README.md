@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROHIT-ROHIT-T
+- 👋 Hi, I’m ROHIT
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning about Data science
 - 📫 How to reach me : rohitdujraan@gmail.com
